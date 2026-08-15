@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://hollandcasino.cfd/sitemap.xml
+Sitemap: https://hollandcasino.cfd/sitemap_index.xml
